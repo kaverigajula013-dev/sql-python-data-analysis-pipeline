@@ -1,2 +1,17 @@
-# sql-python-data-analysis-pipeline
-End-to-end data analysis pipeline using SQL and Python for data extraction, transformation, and automated reporting.
+# SQL + Python Data Analysis Pipeline
+
+## Project Overview
+This project demonstrates how SQL-style data analysis workflows can be implemented using Python and Pandas.
+
+## Tools Used
+Python
+Pandas
+SQL-style aggregation
+
+## Features
+- Data loading and transformation
+- Aggregation analysis
+- Automated report generation
+
+## Output
+A summary sales report generated automatically from the dataset.
